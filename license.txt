@@ -1,0 +1,9 @@
+CERN OHL v.1.2 License
+
+Incubator - <p>Incubators are useful piece of equipment, however, most of them are expensive to get in biohacking/diybio labs. The Mboa Lab in Cameroon through the Building Free Open Science Hardware (BFOSH) by Andre Chagas built the first incubator (https://github.com/FOSH-following-demand/Incubator).</p><p></p>
+
+Copyright (c) 2019 Hive Biolab
+
+Incubator is licensed under the CERN OHL v.1.2 or later.
+
+You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable conditions.
