@@ -1,3 +1,5 @@
+// The heat source and push button used here are active low
+
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 // #include <OneWire.h>
