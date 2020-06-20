@@ -1,4 +1,4 @@
-// The heat source and push button used here are active low
+// The heat source is active low
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
