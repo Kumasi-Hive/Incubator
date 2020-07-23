@@ -37,7 +37,7 @@ long convert_time(long millisec) {
   if (seconds < 60) {
     lcd.print(seconds);
     lcd.print("secs");
-  } else if (seconds == 60) {
+  } else if (seconds >= 60) {
     int minutes = seconds/60;
     lcd.print(minutes);
     lcd.print("mins");
