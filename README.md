@@ -18,7 +18,7 @@ Microorganisms growth are influenced by several factors including temperature. T
 
 
 1. Arduino Uno
-2. Sliding Potentiometer
+2. Knob Potentiometer
 3. 75W incandescent bulb
 4. Push button
 5. 16x2 LCD screen
